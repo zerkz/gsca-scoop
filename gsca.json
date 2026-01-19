@@ -1,19 +1,19 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/zerkz/gsca/releases/download/v1.0.0/gsca_1.0.0_windows_amd64.zip",
+            "url": "https://github.com/zerkz/gsca/releases/download/v1.0.1/gsca_1.0.1_windows_amd64.zip",
             "bin": [
                 "gsca.exe"
             ],
-            "hash": "47699cd7ad5a5f943b7c0fa570ccd4c8b6a47cee71c332e003ce551ba9f7c032"
+            "hash": "592e5aed77c03200a382660b470106efcdbfb388e0430a67ce4c501541cae614"
         },
         "arm64": {
-            "url": "https://github.com/zerkz/gsca/releases/download/v1.0.0/gsca_1.0.0_windows_arm64.zip",
+            "url": "https://github.com/zerkz/gsca/releases/download/v1.0.1/gsca_1.0.1_windows_arm64.zip",
             "bin": [
                 "gsca.exe"
             ],
-            "hash": "5ec26e9904e5a7a3803a87a132b0c20510827834c2bfa14e68a2e002dd6e40c4"
+            "hash": "000fdfb029dd83fc7b755d310f7b6098c6a5289d8ca506275289f4368686f362"
         }
     },
     "homepage": "https://github.com/zerkz/gsca",

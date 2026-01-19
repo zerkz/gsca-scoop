@@ -1,0 +1,22 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/zerkz/gsca/releases/download/v1.0.0/gsca_1.0.0_windows_amd64.zip",
+            "bin": [
+                "gsca.exe"
+            ],
+            "hash": "f43d80817b9b9bc21ba8a39b00f8309c45a054850eaa346d1225edeaa876ac61"
+        },
+        "arm64": {
+            "url": "https://github.com/zerkz/gsca/releases/download/v1.0.0/gsca_1.0.0_windows_arm64.zip",
+            "bin": [
+                "gsca.exe"
+            ],
+            "hash": "b4ac3f4f5bb3d87d9868daca6b24a880ac31c3c165400cd29897475bb9d8a70f"
+        }
+    },
+    "homepage": "https://github.com/zerkz/gsca",
+    "license": "MIT",
+    "description": "Global Steam Command Args - CLI tool to manage Steam game launch options"
+}

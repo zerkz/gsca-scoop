@@ -6,14 +6,14 @@
             "bin": [
                 "gsca.exe"
             ],
-            "hash": "5a51b92761e1baa9fb142ec118a2ad704a136dde23f2924a6867c3780161ea61"
+            "hash": "47699cd7ad5a5f943b7c0fa570ccd4c8b6a47cee71c332e003ce551ba9f7c032"
         },
         "arm64": {
             "url": "https://github.com/zerkz/gsca/releases/download/v1.0.0/gsca_1.0.0_windows_arm64.zip",
             "bin": [
                 "gsca.exe"
             ],
-            "hash": "270c4fd8602afae78c2191a1e3105a3f836bbf35208f0d71b5cc3961f779c419"
+            "hash": "5ec26e9904e5a7a3803a87a132b0c20510827834c2bfa14e68a2e002dd6e40c4"
         }
     },
     "homepage": "https://github.com/zerkz/gsca",
